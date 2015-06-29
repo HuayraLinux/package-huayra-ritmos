@@ -1,4 +1,10 @@
-huayra-ritmos (0.1) unstable; urgency=low
+huayra-ritmos (0.0.5-1) unstable; urgency=low
+
+  * Actualización.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Mon, 29 Jun 2015 15:01:49 +0200
+
+huayra-ritmos (0.0.1) unstable; urgency=low
 
   * Versión inicial.
 
