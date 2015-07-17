@@ -1,4 +1,5 @@
 dist/* usr/share/huayra-ritmos/dist
+dist/package.json usr/share/huayra-ritmos/
 bin/huayra-ritmos usr/bin/
 debian/huayra-ritmos.desktop /usr/share/applications
 debian/huayra-ritmos.svg /usr/share/icons/hicolor/scalable/apps
