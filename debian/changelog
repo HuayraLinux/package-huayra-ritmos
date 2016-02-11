@@ -1,3 +1,17 @@
+huayra-ritmos (0.8.0-1) UNRELEASED; urgency=low
+
+  * Permite configurar directorios personalizados de donde sacar audios
+  * Tiene un menu "nativo"
+  * Cambios en la UI
+  * Permite cambiar los "steps"
+  * Cambio la manera de abrir modales
+  * Las ventanas tienen el titulo del track
+  * Permite "Guardar como"
+  * Correcciones varias al leer archivos de sonido
+  * Ahora genera dos paquetes: huayra-ritmos (aplicacion) y huayra-ritmos-data (sonidos)
+
+ -- Mauro <mauro@sdf.org>  Thu, 11 Feb 2016 16:12:34 -0300
+
 huayra-ritmos (0.6.0-1) unstable; urgency=low
 
   * Implementando los dialogos nuevos con ember-dialog.
