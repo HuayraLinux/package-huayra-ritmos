@@ -1,7 +1,19 @@
 dist/* usr/share/huayra-ritmos/dist
+dist/assets/* usr/share/huayra-ritmos/dist/assets
+dist/fonts/* usr/share/huayra-ritmos/dist/fonts
+dist/img/* usr/share/huayra-ritmos/dist/img
+dist/libs/* usr/share/huayra-ritmos/dist/libs
 dist/package.json usr/share/huayra-ritmos/
+dist/package.json usr/share/huayra-ritmos/dist/
+dist/atajo-inspector.js usr/share/huayra-ritmos/dist/
+dist/fix-menu-osx.js usr/share/huayra-ritmos/dist/
+dist/huayra-bootstrap.css usr/share/huayra-ritmos/dist/
+dist/index.html usr/share/huayra-ritmos/dist/
+dist/make.png usr/share/huayra-ritmos/dist/
+
 bin/huayra-ritmos usr/bin/
 debian/huayra-ritmos.desktop /usr/share/applications
 debian/huayra-ritmos.svg /usr/share/icons/hicolor/scalable/apps
 node_modules/archiver/* /usr/share/huayra-ritmos/node_modules/archiver
 node_modules/tmp/* /usr/share/huayra-ritmos/node_modules/tmp
+
