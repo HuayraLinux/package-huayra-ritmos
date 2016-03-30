@@ -1,3 +1,9 @@
+huayra-ritmos (0.8.0-2) unstable; urgency=low
+
+  * Moviendo el repositorio a la organizacion de huayra.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Wed Mar 30 14:06:49 ART 2016
+
 huayra-ritmos (0.8.0-1) UNRELEASED; urgency=low
 
   * Permite configurar directorios personalizados de donde sacar audios

@@ -1,2 +1,2 @@
 version=3
-https://github.com/hugoruscitti/huayra-ritmos/tags .*/(\d[\d\.]+)\.tar\.gz
+https://github.com/HuayraLinux/huayra-ritmos/tags .*/(\d[\d\.]+)\.tar\.gz
