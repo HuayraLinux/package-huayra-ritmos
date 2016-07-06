@@ -1,3 +1,10 @@
+huayra-ritmos (0.8.2-1) unstable; urgency=low
+
+  * update.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Wed, 06 Jul 2016 14:48:22 -0300
+
+
 huayra-ritmos (0.8.1-1) unstable; urgency=low
 
   * Agregando WM_CLASS.
