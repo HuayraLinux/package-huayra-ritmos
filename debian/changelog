@@ -1,4 +1,4 @@
-huayra-ritmos (0.9.0-2) UNRELEASED; urgency=medium
+huayra-ritmos (0.9.0-2) unstable; urgency=medium
 
   * Reparado el huayra-ritmos.install del paquete
 
