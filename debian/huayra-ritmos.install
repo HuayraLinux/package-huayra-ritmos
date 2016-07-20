@@ -1,4 +1,3 @@
-dist/* usr/share/huayra-ritmos/dist
 dist/assets/* usr/share/huayra-ritmos/dist/assets
 dist/fonts/* usr/share/huayra-ritmos/dist/fonts
 dist/img/* usr/share/huayra-ritmos/dist/img
@@ -15,4 +14,4 @@ bin/huayra-ritmos usr/bin/
 debian/huayra-ritmos.desktop /usr/share/applications
 debian/huayra-ritmos.svg /usr/share/icons/hicolor/scalable/apps
 node_modules/tmp/* /usr/share/huayra-ritmos/node_modules/tmp
-
+node_modules/tar-stream/* /usr/share/huayra-ritmos/node_modules/tar-stream
