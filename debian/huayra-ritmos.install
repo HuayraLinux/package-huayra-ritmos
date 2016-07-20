@@ -14,6 +14,5 @@ dist/make.png usr/share/huayra-ritmos/dist/
 bin/huayra-ritmos usr/bin/
 debian/huayra-ritmos.desktop /usr/share/applications
 debian/huayra-ritmos.svg /usr/share/icons/hicolor/scalable/apps
-node_modules/archiver/* /usr/share/huayra-ritmos/node_modules/archiver
 node_modules/tmp/* /usr/share/huayra-ritmos/node_modules/tmp
 
