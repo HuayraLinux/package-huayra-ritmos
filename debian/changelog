@@ -1,3 +1,9 @@
+huayra-ritmos (0.9.0-5) unstable; urgency=medium
+
+  * Agregado home-config entre los node_modules de huayra-rimos
+
+ -- Ignacio Losiggio <iglosiggio@gmail.com>  Wed, 20 Jul 2016 14:27:19 -0300
+
 huayra-ritmos (0.9.0-4) unstable; urgency=medium
 
   * Reparado huayra-rimos.install para no generar problemas con huayra-ritmos-data
