@@ -17,6 +17,8 @@ Description: Aplicacion para generar ritmos
 Package: huayra-ritmos-data
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
+Conflicts: huayra-ritmos (<= 0.9.0)
+Replaces: huayra-ritmos (<= 0.9.0)
 Description: Aplicacion para generar ritmos (paquete datos)
  Aplicacion del estilo de secuenciadores que permite generar ritmos.
  .
