@@ -1,3 +1,9 @@
+huayra-ritmos (0.9.3-1) unstable; urgency=medium
+
+  * Reparado el script de inicio de huayra-ritmos
+
+ -- Ignacio Losiggio <iglosiggio@gmail.com>  Thu, 18 Aug 2016 14:19:03 -0300
+
 huayra-ritmos (0.9.2-2) unstable; urgency=medium
 
   * Reparado el paquete para que no haya colisiones con huayra-ritmos-data
