@@ -1,3 +1,15 @@
+huayra-ritmos (0.9.4-1) unstable; urgency=medium
+
+  * Reparado un bug del directorio donde se cargan los archivos
+
+ -- Ignacio Losiggio <iglosiggio@gmail.com>  Fri, 19 Aug 2016 11:25:15 -0300
+
+huayra-ritmos (0.9.3-2) unstable; urgency=medium
+
+  * Reparando errores del install del paquete
+
+ -- Ignacio Losiggio <iglosiggio@gmail.com>  Fri, 19 Aug 2016 10:26:53 -0300
+
 huayra-ritmos (0.9.3-1) unstable; urgency=medium
 
   * Reparado el script de inicio de huayra-ritmos

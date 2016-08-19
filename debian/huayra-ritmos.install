@@ -1,9 +1,10 @@
+package.json usr/share/huayra-ritmos/
+electron.js usr/share/huayra-ritmos/
+
 dist/assets/* usr/share/huayra-ritmos/dist/assets
-dist/fonts/* usr/share/huayra-ritmos/dist/fonts
+dist/font/* usr/share/huayra-ritmos/dist/font
 dist/img/* usr/share/huayra-ritmos/dist/img
 dist/libs/* usr/share/huayra-ritmos/dist/libs
-dist/package.json usr/share/huayra-ritmos/
-dist/package.json usr/share/huayra-ritmos/dist/
 dist/atajo-inspector.js usr/share/huayra-ritmos/dist/
 dist/fix-menu-osx.js usr/share/huayra-ritmos/dist/
 dist/huayra-bootstrap.css usr/share/huayra-ritmos/dist/
