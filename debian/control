@@ -2,7 +2,7 @@ Source: huayra-ritmos
 Section: utils
 Priority: extra
 Maintainer: Hugo Ruscitti <hugoruscitti@gmail.com>
-Build-Depends: debhelper (>= 8.0.0), nodejs, nodejs-legacy, npm, git
+Build-Depends: debhelper (>= 8.0.0), nodejs, nodejs-legacy, npm, git, python
 Standards-Version: 3.9.6
 Homepage: https://github.com/HuayraLinux/pkg-huayra-ritmos
 Vcs-Browser: https://github.com/HuayraLinux/huayra-ritmos
@@ -10,7 +10,7 @@ Vcs-Git: https://github.com/HuayraLinux/huayra-ritmos.git
 
 Package: huayra-ritmos
 Architecture: all
-Depends: ${shlibs:Depends}, ${misc:Depends}, huayra-help (>= 0.3), node-webkit (>= 0.11.2.4), huayra-ritmos-data
+Depends: ${shlibs:Depends}, ${misc:Depends}, huayra-help (>= 0.3), node-webkit (>= 0.11.2.4), huayra-ritmos-data, electron
 Description: Aplicacion para generar ritmos
  Aplicacion del estilo de secuenciadores que permite generar ritmos
 
