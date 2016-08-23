@@ -1,3 +1,12 @@
+huayra-ritmos (0.9.5-1) unstable; urgency=medium
+
+  * Actualizado p5.js-sound (mejora consumo de la cpu)
+  * Ahora se marca el sonido que se selecciona
+  * Mejoras de estilo
+  * Notificación visible cuando hay cambios sin guardar
+
+ -- Ignacio Losiggio <iglosiggio@gmail.com>  Tue, 23 Aug 2016 11:31:31 -0300
+
 huayra-ritmos (0.9.4-1) unstable; urgency=medium
 
   * Reparado un bug del directorio donde se cargan los archivos

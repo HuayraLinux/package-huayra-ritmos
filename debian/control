@@ -10,7 +10,7 @@ Vcs-Git: https://github.com/HuayraLinux/huayra-ritmos.git
 
 Package: huayra-ritmos
 Architecture: all
-Depends: ${shlibs:Depends}, ${misc:Depends}, huayra-help (>= 0.3), node-webkit (>= 0.11.2.4), huayra-ritmos-data, electron
+Depends: ${shlibs:Depends}, ${misc:Depends}, huayra-help (>= 0.3), huayra-ritmos-data, electron
 Description: Aplicacion para generar ritmos
  Aplicacion del estilo de secuenciadores que permite generar ritmos
 
