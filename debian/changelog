@@ -1,3 +1,10 @@
+huayra-ritmos (0.9.6-1) unstable; urgency=medium
+
+  * update.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Thu, 01 Sep 2016 14:49:34 -0300
+
+
 huayra-ritmos (0.9.5-2) unstable; urgency=medium
 
   * Arreglos menores para que compile usando node 4.5.
