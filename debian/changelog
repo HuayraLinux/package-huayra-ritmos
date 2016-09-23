@@ -1,3 +1,17 @@
+huayra-ritmos (0.9.8-1) unstable; urgency=medium
+
+  * Cambiando permisos de archivos de audio.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 23 Sep 2016 16:17:38 -0300
+
+
+huayra-ritmos (0.9.7-1) unstable; urgency=medium
+
+  * update.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 23 Sep 2016 16:16:32 -0300
+
+
 huayra-ritmos (0.9.7-1) unstable; urgency=medium
 
   * Valido que el título esté vacío
